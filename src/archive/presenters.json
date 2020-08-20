@@ -245,11 +245,11 @@
   },
   "Colby Taperts": {
     "name": "Colby Taperts",
-    "headshot": "",
+    "headshot": "colby-taperts.jpg",
     "position": "",
     "social": {
       "website": "",
-      "github": "",
+      "github": "https://github.com/ctaperts",
       "linkedin": "",
       "twitter": ""
     }
