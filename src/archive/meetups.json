@@ -1,5 +1,22 @@
 [
   {
+    "id": 76,
+    "date": "October 27, 2020",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrybcnbkc",
+    "talks": [
+      {
+        "presenter": "Amber Jones",
+        "title": "Electron – Shockingly Fast Desktop App Building",
+        "description": "We’ll explore the framework that makes use of HTML, CSS, and JavaScript to create cross-platform desktop apps. Popularized by Slack and VSCode."
+      },
+      {
+        "presenter": "Olivia Sabo-Rush",
+        "title": "Create a Chrome Extension",
+        "description": "Grammarly, Boomerang, Lighthouse, Adblock, HTTPS Everywhere, and Vimium are just six of thousands of available Google Chrome extensions. Liv will walk us through what types of extensions exist, and how to make your own."
+      }
+    ]
+  },
+  {
     "id": 74,
     "date": "August 25, 2020",
     "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrybclbhc",
@@ -60,11 +77,6 @@
     "date": "April 28, 2020",
     "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrybcgblc/",
     "talks": [
-      {
-        "presenter": "Olivia Sabo-Rush",
-        "title": "Create a Chrome Extension",
-        "description": "Grammarly, Boomerang, Lighthouse, Adblock, HTTPS Everywhere, and Vimium are just six of thousands of available Google Chrome extensions. Liv will walk us through what types of extensions exist, and how to make your own."
-      },
       {
         "presenter": "Cameron Sampson",
         "title": "Coming Together in Virtual Reality",
