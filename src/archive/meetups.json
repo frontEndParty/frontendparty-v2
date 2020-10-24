@@ -1,5 +1,27 @@
 [
   {
+    "id": 74,
+    "date": "August 25, 2020",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrybclbhc",
+    "talks": [
+      {
+        "presenter": "Cameron Sampson",
+        "title": "Using WebXR Hand Tracking for Interactive Experiences",
+        "description": "We'll take a look at WebXR's experimental support for hand/joint tracking and how it can be used to build virtual reality experiences you can use your actual hands to interact with."
+      },
+      {
+        "presenter": "Colby Taperts",
+        "title": "Introduction to Redux Toolkit",
+        "description": "Colby will walk us through a before/after integration of Redux Toolkit, the official batteries-included toolset for Redux development, intended to be the standard way to write Redux logic."
+      },
+      {
+        "presenter": "Adrian Sampson",
+        "title": "Native Internationalization in JavaScript",
+        "description": "A look at the ECMAScript Internationalization API, which provides locale sensitive string comparison, number formatting, and date/time formatting."
+      }
+    ]
+  },
+  {
     "id": 73,
     "date": "July 28, 2020",
     "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrybckblc/",
