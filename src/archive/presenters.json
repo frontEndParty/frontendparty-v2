@@ -54,6 +54,17 @@
       "twitter": ""
     }
   },
+  "Amber Jones": {
+    "name": "Amber Jones",
+    "headshot": "amber-jones.png",
+    "position": "Software Developer @ Mumms",
+    "social": {
+      "website": "https://ambermjones.dev",
+      "github": "",
+      "linkedin": "",
+      "twitter": "https://twitter.com/AM8ERJ"
+    }
+  },
   "Amy Dalton": {
     "name": "Amy Dalton",
     "headshot": "",
@@ -774,7 +785,7 @@
   "Olivia Sabo-Rush": {
     "name": "Olivia Sabo-Rush",
     "headshot": "olivia-sabo-rush.png",
-    "position": "Software Engineer",
+    "position": "Software Engineer @ The Mom Project",
     "social": {
       "website": "http://pafiu.me",
       "github": "https://github.com/livrush",
