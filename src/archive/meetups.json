@@ -1,6 +1,23 @@
 [
   {
-    "id": 76,
+    "id": 75,
+    "date": "January 26, 2021",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrycccbjc",
+    "talks": [
+      {
+        "presenter": "Cameron Sampson",
+        "title": "Figma - A UI Design and Prototyping Tool",
+        "description": "Figma is both a browser and desktop based vector graphics and prototyping app similar to Sketch or Adobe XD. We'll take a look at the browser version, an introduction to its features, and walk through an exercise in prototyping with it."
+      },
+      {
+        "presenter": "Adrian Sampson",
+        "title": "Live-streaming Web Audio",
+        "description": "A look at the protocols, formats, and server-side technologies involved in streaming audio, plus a walk-through example using public radio stations"
+      }
+    ]
+  },
+  {
+    "id": 74,
     "date": "October 27, 2020",
     "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrybcnbkc",
     "talks": [
@@ -17,7 +34,7 @@
     ]
   },
   {
-    "id": 74,
+    "id": 73,
     "date": "August 25, 2020",
     "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrybclbhc",
     "talks": [
@@ -39,7 +56,7 @@
     ]
   },
   {
-    "id": 73,
+    "id": 72,
     "date": "July 28, 2020",
     "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrybckblc/",
     "talks": [
