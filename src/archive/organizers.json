@@ -40,5 +40,19 @@
       "github": "https://github.com/livrush",
       "twitter": "https://twitter.com/pafiume"
     }
+  },
+  {
+    "name": "Charles Robertson",
+    "headshot": "/images/headshots/charles-robertson.jpg",
+    "emoji": {
+      "code": "\u127796",
+      "name": "palm tree"
+    },
+    "social": {
+      "website": "http://charlesrobertson.io",
+      "linkedin": "https://www.linkedin.com/in/charles-robertson-design/",
+      "github": "https://github.com/tropical-nerd",
+      "twitter": "https://twitter.com/tropical_nerd"
+    }
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 76,
+    "date": "February 22, 2021",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrycccbjc",
+    "talks": [
+      {
+        "presenter": "Charles Robertson",
+        "title": "New Specs! Recent and upcoming developments for web browsers",
+        "description": "CSS aspect-ratio is here, AVIF images are halfway here, and container queries were just announced by the CSS Working Group. We'll look at these new tools and how to use them. Other speaker TBD."
+      }
+    ]
+  },
+  {
     "id": 75,
     "date": "January 26, 2021",
     "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrycccbjc",

@@ -235,12 +235,12 @@
   "Charles Robertson": {
     "name": "Charles Robertson",
     "headshot": "charles-robertson.jpg",
-    "position": "Front End Development / Graphic Design",
+    "position": "Front End Developer",
     "social": {
-      "website": "",
-      "github": "",
-      "linkedin": "",
-      "twitter": "https://twitter.com/tr0pical1ntrnet"
+      "website": "http://charlesrobertson.io",
+      "linkedin": "https://www.linkedin.com/in/charles-robertson-design/",
+      "github": "https://github.com/tropical-nerd",
+      "twitter": "https://twitter.com/tropical_nerd"
     }
   },
   "Chris Boyd": {
