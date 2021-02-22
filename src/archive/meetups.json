@@ -7,7 +7,12 @@
       {
         "presenter": "Charles Robertson",
         "title": "New Specs! Recent and upcoming developments for web browsers",
-        "description": "CSS aspect-ratio is here, AVIF images are halfway here, and container queries were just announced by the CSS Working Group. We'll look at these new tools and how to use them. Other speaker(s) TBD."
+        "description": "CSS aspect-ratio is here, AVIF images are halfway here, and container queries were just announced by the CSS Working Group. We'll look at these new tools and how to use them."
+      },
+      {
+        "presenter": "Cameron Sampson",
+        "title": "Storybook v6",
+        "description": "Storybook is a powerful tool for creating component based UIs. Now in it's 6th version, Cameron will dig into the latest features and their potential applications."
       }
     ]
   },
