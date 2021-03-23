@@ -1,5 +1,39 @@
 [
   {
+    "id": 77,
+    "date": "March 23, 2021",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrycccbjc",
+    "talks": [
+      {
+        "presenter": "Charles Robertson",
+        "title": "Vis.gl",
+        "description": "Vis.gl is a suite of geospatial visualization frameworks that bring large data sets to life in your browser. Charles will provide an overview of the tools and show examples using city of New Orleans open data."
+      },
+      {
+        "presenter": "Olivia Sabo-Rush",
+        "title": "Reactive Record",
+        "description": "Reactive Record is a small collection of JS tools and React components that help you with all your CRUD needs, and more! Do you miss Active Record? This library may look familiar. Liv will take us through a quick overview of what is possible with this cool SDK."
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "date": "February 23, 2021",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrycccbjc",
+    "talks": [
+      {
+        "presenter": "Charles Robertson",
+        "title": "New Specs! Recent and upcoming developments for web browsers",
+        "description": "CSS aspect-ratio is here, AVIF images are halfway here, and container queries were just announced by the CSS Working Group. We'll look at these new tools and how to use them."
+      },
+      {
+        "presenter": "Cameron Sampson",
+        "title": "Storybook v6",
+        "description": "Storybook is a powerful tool for creating component based UIs. Now in it's 6th version, Cameron will dig into the latest features and their potential applications."
+      }
+    ]
+  },
+  {
     "id": 75,
     "date": "January 26, 2021",
     "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrycccbjc",

@@ -56,6 +56,17 @@ const Organizers = () => (
               <i className="fab fa-twitter" />
             </a>
           ) : null}
+          {organizer.social.codepen ? (
+            <a
+              href={organizer.social.codepen}
+              className="organizer-social-link link-delay rainbow-text"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Check out this organizer's CodePen"
+            >
+              <i className="fab fa-codepen" />
+            </a>
+          ) : null}
         </p>
         <span className="organizer-emoji" role="img" aria-label={organizer.emoji.name}>
           {organizer.emoji.code}

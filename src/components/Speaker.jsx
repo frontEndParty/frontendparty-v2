@@ -69,6 +69,17 @@ const Speaker = ({
                 <i className="fab fa-twitter" />
               </a>
             ) : null}
+            {speaker.social.codepen ? (
+              <a
+                href={speaker.social.codepen}
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Check out this speaker's CodePen"
+                className="speaker-social-link link-delay rainbow-text"
+              >
+                <i className="fab fa-codepen" />
+              </a>
+            ) : null}
           </div>
           <h4 className="speaker-text--side speaker-presentation">{title}</h4>
         </div>
