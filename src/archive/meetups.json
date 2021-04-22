@@ -1,5 +1,22 @@
 [
   {
+    "id": 78,
+    "date": "April 27, 2021",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkryccgbkc",
+    "talks": [
+      {
+        "presenter": "Adrian Sampson",
+        "title": "Flutter - Google’s Cross-platform UI Toolkit",
+        "description": "Flutter is a UI toolkit for Dart apps that can compile to run natively on mobile, desktop, and now the web too. We'll be getting a basic introduction to the Dart programming language and walk through how to build an app using Flutter."
+      },
+      {
+        "presenter": "Cameron Sampson",
+        "title": "Progressive Web Apps",
+        "description": "Progressive web apps (PWAs) are web apps that make use of offline functionality, a special manifest file, and other technologies to provide a seamless and installable web experience across platforms. We'll walk through building a sample PWA for web, desktop, and mobile."
+      }
+    ]
+  },
+  {
     "id": 77,
     "date": "March 23, 2021",
     "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrycccbjc",
