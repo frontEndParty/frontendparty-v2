@@ -1,5 +1,22 @@
 [
   {
+    "id": 79,
+    "date": "May 25, 2021",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkryccgbkc",
+    "talks": [
+      {
+        "presenter": "Vanessa Pyne",
+        "title": "Selenium WebDriver For Fun and Profit",
+        "description": "The Selenium WebDriver browser automation framework: What is it? How does one use it? These questions and more shall be answered. If you like (or just use) NodeJS and develop for web browsers, this talk will be fun. Not boring. Unit tests are boring. Automated End-2-End test are exciting. Just like this talk will be."
+      },
+      {
+        "presenter": "Cameron Sampson",
+        "title": "Flutter - Google’s Cross-platform UI Toolkit",
+        "description": "Flutter is a UI toolkit for Dart apps that can compile to run natively on mobile, desktop, and now the web too. We'll be getting a basic introduction to the Dart programming language and walk through how to build an app using Flutter."
+      }
+    ]
+  },
+  {
     "id": 78,
     "date": "April 27, 2021",
     "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkryccgbkc",
