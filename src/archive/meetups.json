@@ -1,5 +1,22 @@
 [
   {
+    "id": 80,
+    "date": "June 22, 2021",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkryccjbdc",
+    "talks": [
+      {
+        "presenter": "Adrian Sampson",
+        "title": "Building Real-time Multi-user Apps With Socket.IO V4",
+        "description": "Socket.IO is a JavaScript library for adding real-time, bidirectional, and event-based communication to your apps. We'll take a look at how to build an app using TypeScript + Socket.IO"
+      },
+      {
+        "presenter": "Cameron Sampson",
+        "title": "Progressive Web Apps",
+        "description": "Progressive web apps (PWAs) are web apps that make use of offline functionality, a special manifest file, and other technologies to provide a seamless and installable web experience across platforms. We'll walk through building a sample PWA for web, desktop, and mobile."
+      }
+    ]
+  },
+  {
     "id": 79,
     "date": "May 25, 2021",
     "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkryccgbkc",
