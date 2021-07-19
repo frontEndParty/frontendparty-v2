@@ -1,5 +1,17 @@
 [
   {
+    "id": 81,
+    "date": "July 27, 2021",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrycccbjc",
+    "talks": [
+      {
+        "presenter": "Olivia Sabo-Rush",
+        "title": "Reactive Record",
+        "description": "Reactive Record is a small collection of JS tools and React components that help you with all your CRUD needs, and more! Do you miss Active Record? This library may look familiar. Liv will take us through a quick overview of what is possible with this cool SDK."
+      }
+    ]
+  },
+  {
     "id": 80,
     "date": "June 22, 2021",
     "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkryccjbdc",

@@ -32,16 +32,14 @@ const Header = () => (
       <strong>designer professionals</strong>.
     </p>
     <p className="title-4">
-      Every <strong>fourth Tuesday</strong> hosted virtually on&nbsp;
-      <a
-        href="https://zoom.us/"
+      Every <strong>fourth Tuesday</strong> hosted at the&nbsp;<a
+        href="https://www.acehotel.com"
         target="_blank"
         rel="noopener noreferrer"
-        aria-label="Check out Zoom"
         className="link-delay rainbow-text"
       >
-        <strong>Zoom</strong>
-      </a>
+        <strong>Ace Hotel</strong>
+      </a>, 600 Carondelet St.
     </p>
   </header>
 );
