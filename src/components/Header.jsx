@@ -29,17 +29,18 @@ const Header = () => (
       &nbsp;in <strong>New Orleans</strong>
       <br />
       for <strong>front-end developers</strong> and{' '}
-      <strong>designer professionals</strong>.
+      <strong>designer professionals</strong>
     </p>
     <p className="title-4">
-      Every <strong>fourth Tuesday</strong> hosted at the&nbsp;<a
-        href="https://www.acehotel.com"
+      Every <strong>fourth Tuesday</strong> hosted on&nbsp;<a
+        href="https://zoom.us"
         target="_blank"
         rel="noopener noreferrer"
         className="link-delay rainbow-text"
-      >
-        <strong>Ace Hotel</strong>
-      </a>, 600 Carondelet St.
+        ><strong>zoom</strong></a>.
+    </p>
+    <p className="title-4">
+      <strong>July's event has been cancelled.</strong> Stay tuned for updates about next month!
     </p>
   </header>
 );
