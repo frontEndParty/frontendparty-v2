@@ -1,5 +1,17 @@
 [
   {
+    "id": 82,
+    "date": "August 24, 2021",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrycccbjc",
+    "talks": [
+      {
+        "presenter": "Charles Robertson",
+        "title": "The New New",
+        "description": "Over the past twelve months browsers have been busy shipping new features. Some of these are game changers (Container Queries have shipped, are you kidding me?) others are handy or at very least adorable (Accent colors on your form elements? SO CUTE) Let's take look!"
+      }
+    ]
+  },
+  {
     "id": 81,
     "date": "July 27, 2021",
     "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrycccbjc",

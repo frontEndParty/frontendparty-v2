@@ -39,9 +39,6 @@ const Header = () => (
         className="link-delay rainbow-text"
         ><strong>zoom</strong></a>.
     </p>
-    <p className="title-4">
-      <strong>July's event has been cancelled.</strong> Stay tuned for updates about next month!
-    </p>
   </header>
 );
 
