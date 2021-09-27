@@ -1,5 +1,22 @@
 [
   {
+    "id": 83,
+    "date": "September 28, 2021",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrycccbjc",
+    "talks": [
+      {
+        "presenter": "Olivia Sabo-Rush",
+        "title": "Understanding and Using Animation in CSS/JS",
+        "description": "Animation has the potential to create a meaningful impact in any website or application’s user experience. From elaborate designs, to a simple loading spinner, animation can help demonstrate important signals without the use of text. We’ll explore what animation is, the different ways we can incorporate it in CSS or JavaScript, and several libraries to try out."
+      },
+      {
+        "presenter": "Charles Robertson",
+        "title": "Astro: The Framework of the Future",
+        "description": "Modern approaches to web app architecture increasingly rely on large, script-heavy frameworks run in the browser which can cause issues with load times and slow interactions with potentially detrimental effects on user experience. JAM Stack patterns are an answer to this, often solving performance problems but introducing some tricky development issues of their own. Astro, still in early beta, claims to be the solution to this, allowing the construction of websites with popular frameworks like React, Vue, or Svelte, but with the ability to render sites that ship very little or no JavaScript whatsoever."
+      }
+    ]
+  },
+  {
     "id": 82,
     "date": "August 24, 2021",
     "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrycccbjc",

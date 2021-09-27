@@ -4,7 +4,7 @@
 
 ```sh
 git clone git@github.com:frontEndParty/frontendparty-v2.git
-cd front-end-party
+cd frontendparty-v2
 yarn
 yarn start
 ```
