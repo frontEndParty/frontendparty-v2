@@ -1,4 +1,21 @@
 [
+    {
+    "id": 84,
+    "date": "October 26, 2021",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkryccnbjc",
+    "talks": [
+      {
+        "presenter": "Adrian Sampson",
+        "title": "Building Location-Aware Map Apps w/ Leaflet",
+        "description": "Leaflet is an open-source JavaScript library for building custom interactive maps. We'll learn about its core features and how to build a location-aware map app with it."
+      },
+      {
+        "presenter": "Cameron Sampson",
+        "title": "Reverse-Engineering Design: Piecing Together an Existing Visual Language using Figma and Asset Extraction",
+        "description": "Homebrew content creation, a common practice in tabletop game communities, faces a unique challenge: how do you make your own content design (e.g. documents for custom rules) visually resemble the source so that it feels authentic? We'll take a look at using tools such as FontForge and Figma to piece together a design language from an existing source."
+      }
+    ]
+  },
   {
     "id": 83,
     "date": "September 28, 2021",
