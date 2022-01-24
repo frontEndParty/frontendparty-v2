@@ -1,5 +1,17 @@
 [
-    {
+  {
+    "id": 85,
+    "date": "January 25, 2022",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrycccbjc",
+    "talks": [
+      {
+        "presenter": "Charles Robertson",
+        "title": "Nerd News",
+        "description": "A look at the past six months in front end development– new browser features, security nightmares, and an industry shift towards Web 3 and the Metaverse."
+      }
+    ]
+  },  
+  {
     "id": 84,
     "date": "October 26, 2021",
     "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkryccnbjc",
