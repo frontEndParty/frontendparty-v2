@@ -1,5 +1,22 @@
 [
   {
+    "id": 86,
+    "date": "March 22, 2022",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrydcfbdc",
+    "talks": [
+      {
+        "presenter": "Adrian Sampson",
+        "title": "Material Theme Builder: A Tool for Generating Material 3 Themes",
+        "description": "Material Theme Builder is both a web tool and Figma plugin for auto-generating Material 3 color schemes. We'll take a look at how to use it based on existing brand colors, palettes sourced from images, and more."
+      },
+      {
+        "presenter": "Cameron Sampson",
+        "title": "Playwright: An End-to-End Testing Framework",
+        "description": "Playwright is a new browser automation framework for end-to-end testing. It features auto-wait, full instance isolation, and other headache-reducing features that we'll walk through."
+      }
+    ]
+  },
+  {
     "id": 85,
     "date": "January 25, 2022",
     "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrycccbjc",
