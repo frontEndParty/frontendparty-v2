@@ -1,5 +1,22 @@
 [
   {
+    "id": 87,
+    "date": "April 26, 2022",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/284792835",
+    "talks": [
+      {
+        "presenter": "Cameron Sampson",
+        "title": "Exploring New Augmented Reality Features in A-Frame",
+        "description": "A-Frame is a WebXR framework that lets you build virtual/mixed/augmented reality apps and experiences for the web. We'll be taking a look at some of its newer AR features, including support for the Hit Test API, Lighting Estimation API, and reflectivity for 3D models."
+      },
+      {
+        "presenter": "Dave Brudner",
+        "title": "Demystifying Source Maps",
+        "description": "Dave will give an overview and walkthrough of source maps, stating at the implementation level, then diving deeper into the spec itself and how source maps actually work within the context of the web browser. We'll also take a look at how to best approach source maps in your own application across development and production environments."
+      }
+    ]
+  },
+  {
     "id": 86,
     "date": "March 22, 2022",
     "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrydcfbdc",
