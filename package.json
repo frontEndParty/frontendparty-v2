@@ -2,6 +2,9 @@
   "name": "front-end-party",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "16.3.0"
+  },
   "dependencies": {
     "moment": "^2.24.0",
     "react": "^16.8.6",
