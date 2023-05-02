@@ -95,3 +95,4 @@ The website is deployed on Heroku. All you should need to do is:
 * run `yarn deploy`
 
 Ask the other organizers if you need the heroku remote.
+
