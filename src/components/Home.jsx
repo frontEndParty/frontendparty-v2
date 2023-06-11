@@ -23,14 +23,32 @@ const Home = () => {
       </Content>
       <Content emoji="&#127873;" title="The Format">
         <p>
-          <strong>Three 15 minute presentations</strong>
+          <strong>Three 5-15 minute presentations</strong>
         </p>
         <p>
           Each meeting will start with three lightning talks about front-end
           development and design, which should range from 5 to 15 minutes
-          each. Want to talk about Backbone.js? Got some tips on Angular?
-          Opinionated on OOCSS? Looking for design critiques from experienced
-          professionals? We want to see you present!{' '}
+          each.
+          <ul>
+            <li>
+              Got some tips on React?
+            </li>
+            <li>
+              Want to talk about Next?
+            </li>
+            <li>
+              Got opinions on Tailwind or Angular?
+            </li>
+          </ul>
+          <strong>We want to see you present!</strong>
+          <br />
+          <br />
+          You can even bring your working
+          projects for input from local dev peers of all skill levels, shapes and sizes{' '}
+          <br />
+          <i>No development talks will be turned away for topics outside of Frontend Scope</i>
+          <br />
+          <br />
           <a
             className="rainbow-text link-delay"
             href={links.presentationApplication}
@@ -66,23 +84,9 @@ const Home = () => {
         </p>
       </Content>
       <Content emoji="&#128205;" title="The When & Where">
-        <p>#FrontEndParty meets the fourth Tuesday of every month.</p>
+        <p>#FrontEndParty meets the second Tuesday of every month.</p>
         <p>
-          Due to COVID-19 our meetups are being hosted virtually on&nbsp;
-          <a
-            className="rainbow-text link-delay"
-            href="https://zoom.us/"
-            aria-label="Check out Zoom"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Zoom
-          </a>
-          .
-        </p>
-        <p>
-          We start the presentations around 7:00pm or so, but feel free to
-          come earlier if you like, with a drink or a snack, and we'll socialize a bit before the talks.
+          We start at 5:30pm, come by and we'll socialize a bit before the talks begin.
         </p>
         <p>
           You can find all of this information and more, like Zoom links for the meetups, on our&nbsp;

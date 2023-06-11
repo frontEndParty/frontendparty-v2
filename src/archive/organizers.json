@@ -1,5 +1,33 @@
 [
   {
+    "name": "Colin Williams",
+    "headshot": "/images/headshots/Colin_Williams_0002.jpg",
+    "emoji": {
+      "code": "\ud83d\udcab",
+      "name": "flower playing card"
+    },
+    "social": {
+      "website": "https://www.colin-williams.dev/",
+      "linkedin": "https://www.linkedin.com/in/colin-williams-dev/",
+      "github": "https://github.com/colinwilliams91",
+      "twitter": "https://twitter.com/dev_colin_w"
+    }
+  },
+  {
+    "name": "Jorge Carvajal",
+    "headshot": "/images/headshots/Jorge_Carvajal_0001.JPG",
+    "emoji": {
+      "code": "\ud83e\udda9",
+      "name": "disguised face"
+    },
+    "social": {
+      "website": "https://codingmustache.dev/",
+      "linkedin": "https://www.linkedin.com/in/codingmustache/",
+      "github": "https://github.com/codingMustache",
+      "twitter": ""
+    }
+  },
+  {
     "name": "Cameron Sampson",
     "headshot": "/images/headshots/cameron-sampson.png",
     "emoji": {
