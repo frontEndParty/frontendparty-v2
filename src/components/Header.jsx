@@ -32,12 +32,12 @@ const Header = () => (
       <strong>designer professionals</strong>
     </p>
     <p className="title-4">
-      Every <strong>fourth Tuesday</strong> hosted on&nbsp;<a
-        href="https://zoom.us"
+      Every <strong>second Tuesday</strong> hosted at&nbsp;<a
+        href="https://www.google.com/maps/place/The+Shop+At+the+CAC/@29.9435272,-90.0707523,17z/data=!3m1!4b1!4m6!3m5!1s0x8620a676c8155555:0xb336121282dc7834!8m2!3d29.9435272!4d-90.0707523!16s%2Fg%2F11f3hcp872?hl=en&entry=ttu"
         target="_blank"
         rel="noopener noreferrer"
         className="link-delay rainbow-text"
-        ><strong>zoom</strong></a>.
+        ><strong>The Shop at the CAC</strong></a>.
     </p>
   </header>
 );
