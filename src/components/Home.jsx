@@ -31,13 +31,13 @@ const Home = () => {
           each.
           <ul>
             <li>
-              Got some tips on React?
+              Got some tips on React or Angular?
             </li>
             <li>
               Want to talk about Next?
             </li>
             <li>
-              Got opinions on Tailwind or Angular?
+              Have opinions on Tailwind?
             </li>
           </ul>
           <strong>We want to see you present!</strong>
@@ -46,7 +46,7 @@ const Home = () => {
           You can even bring your working
           projects for input from local dev peers of all skill levels, shapes and sizes{' '}
           <br />
-          <i>No development talks will be turned away for topics outside of Frontend Scope</i>
+          <i>No development talks will be turned away for topics outside of the Frontend Scope</i>
           <br />
           <br />
           <a
@@ -67,7 +67,7 @@ const Home = () => {
           conversation so folks can network with both the speakers and each
           other. One of our main goals for this meetup is help introduce
           developers to each other and possibly share ideas / solutions to
-          common front-end development problems.
+          common front-end development problems and strengthen our local Dev community!
         </p>
       </Content>
       <Content emoji="&#128111;" title="The Presenters">
