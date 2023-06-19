@@ -33,11 +33,11 @@ const Header = () => (
     </p>
     <p className="title-4">
       Every <strong>second Tuesday</strong> hosted at&nbsp;<a
-        href="https://www.google.com/maps/place/The+Shop+At+the+CAC/@29.9435272,-90.0707523,17z/data=!3m1!4b1!4m6!3m5!1s0x8620a676c8155555:0xb336121282dc7834!8m2!3d29.9435272!4d-90.0707523!16s%2Fg%2F11f3hcp872?hl=en&entry=ttu"
+        href="https://www.google.com/maps?client=firefox-b-1-d&output=search&q=scale+new+orleans&entry=mc&sa=X&ved=2ahUKEwiwl-y_5M__AhUAm2oFHSY_Aq4Q0pQJegQIBBAB"
         target="_blank"
         rel="noopener noreferrer"
         className="link-delay rainbow-text"
-        ><strong>The Shop at the CAC</strong></a>.
+        ><strong>Scale New Orleans</strong></a> inside the Taylor Education Center.
     </p>
   </header>
 );
