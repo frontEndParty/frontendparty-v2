@@ -7,10 +7,24 @@
       "name": "flower playing card"
     },
     "social": {
-      "website": "https://www.colin-williams.dev/",
+      "website": "https://www.colin-williams.net/",
       "linkedin": "https://www.linkedin.com/in/colin-williams-dev/",
       "github": "https://github.com/colinwilliams91",
       "twitter": "https://twitter.com/dev_colin_w"
+    }
+  },
+  {
+    "name": "Kalypso Homan",
+    "headshot": "/images/headshots/Kalypso_Homan_0001.png",
+    "emoji": {
+      "code": "\uD83D\uDC7E",
+      "name": "alien monster"
+    },
+    "social": {
+      "website": "http://kalypsohoman.com/",
+      "linkedin": "https://www.linkedin.com/in/kalypsohoman/",
+      "github": "http://github.com/kalypsohoman",
+      "twitter": ""
     }
   },
   {
